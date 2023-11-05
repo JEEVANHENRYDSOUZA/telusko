@@ -9,4 +9,3 @@ Here is a high-level description of the producer-consumer problem and some key p
 6. **Concurrency**: The goal is to achieve efficient concurrency, where multiple producers and consumers can work in parallel while maintaining data integrity and avoiding race conditions.
 7. **Deadlocks**: Care should be taken to avoid deadlocks, where producers and consumers get stuck waiting for each other. Proper design of synchronization mechanisms and buffer management is required to prevent deadlocks.
 
-ß
